@@ -1,0 +1,33 @@
+Original list:
+Author: Толстой, Title: Война_и_мир, Publisher: Эксмо, Year: 1869, Pages: 1225
+Author: Достоевский, Title: Преступление_и_наказание, Publisher: АСТ, Year: 1866, Pages: 672
+Author: Гоголь, Title: Мертвые_души, Publisher: Речь, Year: 1842, Pages: 352
+Author: Пушкин, Title: Евгений_Онегин, Publisher: Азбука, Year: 1833, Pages: 240
+Author: Толстой, Title: Анна_Каренина, Publisher: АСТ, Year: 1877, Pages: 864
+
+Sorted list:
+Author: Гоголь, Title: Мертвые_души, Publisher: Речь, Year: 1842, Pages: 352
+Author: Достоевский, Title: Преступление_и_наказание, Publisher: АСТ, Year: 1866, Pages: 672
+Author: Пушкин, Title: Евгений_Онегин, Publisher: Азбука, Year: 1833, Pages: 240
+Author: Толстой, Title: Война_и_мир, Publisher: Эксмо, Year: 1869, Pages: 1225
+Author: Толстой, Title: Анна_Каренина, Publisher: АСТ, Year: 1877, Pages: 864
+
+Copied vector:
+Author: Гоголь, Title: Мертвые_души, Publisher: Речь, Year: 1842, Pages: 352
+Author: Достоевский, Title: Преступление_и_наказание, Publisher: АСТ, Year: 1866, Pages: 672
+Author: Пушкин, Title: Евгений_Онегин, Publisher: Азбука, Year: 1833, Pages: 240
+Author: Толстой, Title: Война_и_мир, Publisher: Эксмо, Year: 1869, Pages: 1225
+Author: Толстой, Title: Анна_Каренина, Publisher: АСТ, Year: 1877, Pages: 864
+
+Set:
+Author: Гоголь, Title: Мертвые_души, Publisher: Речь, Year: 1842, Pages: 352
+Author: Достоевский, Title: Преступление_и_наказание, Publisher: АСТ, Year: 1866, Pages: 672
+Author: Пушкин, Title: Евгений_Онегин, Publisher: Азбука, Year: 1833, Pages: 240
+Author: Толстой, Title: Война_и_мир, Publisher: Эксмо, Year: 1869, Pages: 1225
+
+Unordered Set:
+Author: Толстой, Title: Война_и_мир, Publisher: Эксмо, Year: 1869, Pages: 1225
+Author: Гоголь, Title: Мертвые_души, Publisher: Речь, Year: 1842, Pages: 352
+Author: Достоевский, Title: Преступление_и_наказание, Publisher: АСТ, Year: 1866, Pages: 672
+Author: Пушкин, Title: Евгений_Онегин, Publisher: Азбука, Year: 1833, Pages: 240
+Author: Толстой, Title: Анна_Каренина, Publisher: АСТ, Year: 1877, Pages: 864
